@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.0"
+  },
+  "name": "veterinariae1",
+  "version": "0.0.1",
+  "description": "Sitio web para una veterinaria",
+  "main": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -p 8436"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orlandonicolas79/VeterinariaE1.git"
+  },
+  "keywords": [
+    "veterinaria",
+    "web",
+    "animales",
+    "mascotas"
+  ],
+  "author": "Nicolas Ferreyra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orlandonicolas79/VeterinariaE1/issues"
+  },
+  "homepage": "https://github.com/orlandonicolas79/VeterinariaE1#readme"
+}
